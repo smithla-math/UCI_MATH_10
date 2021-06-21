@@ -1,20 +1,21 @@
 # UCI-MATH 10: Introduction to Programming for Data Science
 Math 10 serves as the introductory course in programming and machine learning algorithms, mainly targeted for the students with mathematical background and have interests in the Data Science specialization. In addition to the introduction of popular python data science packages (Numpy, Matplotlib, Pandas, Seaborn and Scikit-learn), this course also emphasizes the understandings of rationales underlying the programming language and machine learning algorithms.
 
-*(Updated Spring 2021)*
+*(Updated Summer 2021)*
 
 ## Lecture Notes
 **Lecture** | **Contents**
 ------------| --------------
-1 | [Introduction and Walkthrough I: Data Science and Machine Learning](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_1/lecture_1.ipynb)
-2 | [Introduction and Walkthrough II: Programming Language](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_2/lecture_2.ipynb)
-3 | [Python Basic I: Expressions, Variables and Objects](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_3/lecture_3.ipynb)
-4 | [Python Basic II: Object- Mutable/Immutable, Attributes/Methods](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_4/lecture_4.ipynb)
-5 | [Python Basic III: Control Flows and Functions](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_5/lecture_5.ipynb)
-6 | [Python Basic IV: Class and Modules](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_6/lecture_6.ipynb)
-7 | [Data Science Basic I: Introduction to Numpy](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_7/lecture_7.ipynb)
-8 | [Data Science Basic II: Matplotlib and Image Processing](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_8/lecture_8.ipynb)
-9 | [Data Science Basic III: Introduction to Pandas](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_9/lecture_9.ipynb)
+0 | [Software Preparation]
+1 | [Introduction and Walkthrough: Programming Language](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_2/lecture_2.ipynb)
+2 | [Python Basic I: Expressions, Variables and Objects](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_3/lecture_3.ipynb)
+3 | [Python Basic II: Object- Mutable/Immutable, Attributes/Methods](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_4/lecture_4.ipynb)
+4 | [Python Basic III: Control Flows and Functions](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_5/lecture_5.ipynb)
+5 | [Python Basic IV: Class and Modules](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_6/lecture_6.ipynb)
+6 | [Data Science Basic I: Introduction to Numpy](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_7/lecture_7.ipynb)
+7 | [Data Science Basic II: Matplotlib and Image Processing](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_8/lecture_8.ipynb)
+8 | [Data Science Basic III: Introduction to Pandas](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_9/lecture_9.ipynb)
+9 | [Introduction and Walkthrough: Data Science and Machine Learning](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_1/lecture_1.ipynb)
 10 | [Machine Learning I: Overview of Machine Learning and Supervised Learning -- Linear Regression](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_10/Lecture%2010.ipynb)
 11 | [Machine Learning II: Supervised Learning -- Classification: Logistic Regression](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_11/Lecture%2011.ipynb)
 12 | [Machine Learning III: Supervised Learning -- Classification: k-NN, Decision Tree and Random Forest](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_12/Lecture%2012.ipynb)
