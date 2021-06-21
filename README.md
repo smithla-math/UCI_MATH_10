@@ -4,25 +4,25 @@ Math 10 serves as the introductory course in programming and machine learning al
 *(Updated Summer 2021)*
 
 ## Lecture Notes
-**Lecture** | **Contents**
+**Section** | **Contents**
 ------------| --------------
-0 | [Software Preparation]
-1 | [Introduction and Walkthrough: Programming Language](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_2/lecture_2.ipynb)
-2 | [Python Basic I: Expressions, Variables and Objects](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_3/lecture_3.ipynb)
-3 | [Python Basic II: Object- Mutable/Immutable, Attributes/Methods](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_4/lecture_4.ipynb)
-4 | [Python Basic III: Control Flows and Functions](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_5/lecture_5.ipynb)
-5 | [Python Basic IV: Class and Modules](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_6/lecture_6.ipynb)
-6 | [Data Science Basic I: Introduction to Numpy](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_7/lecture_7.ipynb)
-7 | [Data Science Basic II: Matplotlib and Image Processing](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_8/lecture_8.ipynb)
-8 | [Data Science Basic III: Introduction to Pandas](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_9/lecture_9.ipynb)
-9 | [Introduction and Walkthrough: Data Science and Machine Learning](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_1/lecture_1.ipynb)
-10 | [Machine Learning I: Overview of Machine Learning and Supervised Learning -- Linear Regression](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_10/Lecture%2010.ipynb)
-11 | [Machine Learning II: Supervised Learning -- Classification: Logistic Regression](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_11/Lecture%2011.ipynb)
-12 | [Machine Learning III: Supervised Learning -- Classification: k-NN, Decision Tree and Random Forest](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_12/Lecture%2012.ipynb)
-13 | [Machine Learning IV: Unsupervised Learning -- Dimension Reduction: Principal Component Analysis](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_13/Lecture%2013.ipynb)
-14 | [Machine Learning V: Unsupervised Learning -- Dimension Reduction: Manifold Learning](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_14/Lecture%2014.ipynb)
-15 | [Machine Learning VI: Unsupervised Learning --Clustering: K-Means](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_15/Lecture%2015.ipynb)
-16 | [Machine Learning VII: Neural Network and Introduction to Deep Learning](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_16/Lecture%2016.ipynb)
+0 | [Software Preparation](https://github.com/smithla-math/UCI_MATH_10/blob/master/sections/sec_00/section_0.ipynb)
+1 | [Introduction and Walkthrough: Programming Language](https://github.com/smithla-math/UCI_MATH_10/blob/master/sections/sec_01/section_1.ipynb)
+2 | [Python Basic I: Expressions, Variables and Objects](https://github.com/smithla-math/UCI_MATH_10/blob/master/sections/sec_02/section_2.ipynb)
+3 | [Python Basic II: Object- Mutable/Immutable, Attributes/Methods](https://github.com/smithla-math/UCI_MATH_10/blob/master/sections/sec_03/section_3.ipynb)
+4 | [Python Basic III: Control Flows and Functions](https://github.com/smithla-math/UCI_MATH_10/blob/master/sections/sec_04/section_4.ipynb)
+5 | [Python Basic IV: Class and Modules](https://github.com/smithla-math/UCI_MATH_10/blob/master/sections/sec_05/section_5.ipynb)
+6 | [Data Science Basic I: Introduction to Numpy](https://github.com/smithla-math/UCI_MATH_10/blob/master/sections/sec_06/section_6.ipynb)
+7 | [Data Science Basic II: Matplotlib and Image Processing](https://github.com/smithla-math/UCI_MATH_10/blob/master/sections/sec_07/section_7.ipynb)
+8 | [Data Science Basic III: Introduction to Pandas](https://github.com/smithla-math/UCI_MATH_10/blob/master/sections/sec_08/section_8.ipynb)
+9 | [Introduction and Walkthrough: Data Science and Machine Learning](https://github.com/smithla-math/UCI_MATH_10/blob/master/sections/sec_09/section_9.ipynb)
+10 | [Machine Learning I: Overview of Machine Learning and Supervised Learning -- Linear Regression](https://github.com/smithla-math/UCI_MATH_10/blob/master/sections/sec_10/section_10.ipynb)
+11 | [Machine Learning II: Supervised Learning -- Classification: Logistic Regression](https://github.com/smithla-math/UCI_MATH_10/blob/master/sections/sec_11/section_11.ipynb)
+12 | [Machine Learning III: Supervised Learning -- Classification: k-NN, Decision Tree and Random Forest](https://github.com/smithla-math/UCI_MATH_10/blob/master/sections/sec_12/section_12.ipynb)
+13 | [Machine Learning IV: Unsupervised Learning -- Dimension Reduction: Principal Component Analysis](https://github.com/smithla-math/UCI_MATH_10/blob/master/sections/sec_13/section_13.ipynb)
+14 | [Machine Learning V: Unsupervised Learning -- Dimension Reduction: Manifold Learning](https://github.com/smithla-math/UCI_MATH_10/blob/master/sections/sec_14/section_14.ipynb)
+15 | [Machine Learning VI: Unsupervised Learning --Clustering: K-Means](https://github.com/smithla-math/UCI_MATH_10/blob/master/sections/sec_15/section_15.ipynb)
+16 | [Machine Learning VII: Neural Network and Introduction to Deep Learning](https://github.com/smithla-math/UCI_MATH_10/blob/master/sections/sec_16/section_16.ipynb)
 
 ## Textbooks and References
 There will be NO official textbook for this course. You may find the following references helpful:
