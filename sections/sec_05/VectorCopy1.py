@@ -31,5 +31,5 @@ class VectorV5:
 string = 'Python is cool'
 
 def print_hello():
-    print("Hello")
+    print("Hi")
 
